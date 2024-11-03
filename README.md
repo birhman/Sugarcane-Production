@@ -28,18 +28,9 @@ The dataset includes the following key attributes:
 
 Ensure you have Python and the required libraries installed. To install dependencies, use:
 
-```bash
-pip install -r requirements.txt
-```
-
 ### Usage
 
-1. Clone the repository:
-   ```bash
-   git clone [repo-url]
-   cd [repo-name]
-   ```
-2. Open the notebook or script and run each section to see the data analysis process and visualizations.
+Open the notebook or script and run each section to see the data analysis process and visualizations.
 
 ## Key Insights
 
